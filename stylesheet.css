@@ -1,0 +1,22 @@
+body {
+	font-family: verdana;
+	font-size: 16px;
+	background-image: linear-gradient(-45deg, #f0e68c, #fcfae8);
+}
+
+#cards {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1 {
+	text-align: center;
+	margin: 10px;
+}
+
+.para {
+	margin-top: 35px;
+	margin-bottom: 25px;
+}
